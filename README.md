@@ -21,7 +21,7 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost
 - Evaluación mediante métricas de clasificación.
 
 
-🔗 **Ver proyecto:** https://github.com/ivanbs5/Prediccion-del-Uso-de-IA.git
+🔗 **[Ver proyecto](https://github.com/ivanbs5/Prediccion-del-Uso-de-IA)** 
 
 ---
 
