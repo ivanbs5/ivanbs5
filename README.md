@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Iván Barroso
 
-<!--
-**ivanbs5/ivanbs5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente finalizando el Grado en Ingeniería Informática.
 
-Here are some ideas to get you started:
+💻 Me interesa seguir aprendiendo y creciendo en distintas áreas de la informática, participando en proyectos que me permitan desarrollar mis conocimientos y afrontar nuevos retos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Proyectos destacados
+
+
+---
+
+## 🛠️ Tecnologías
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,ts,angular,html,css,js,mysql,docker,linux,git,vscode" />
+</p>
+
+---
+
+## 📫 Contacto
+
+- 📧 ivanbarrososerrano@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/iván-barroso-serrano-158718223/
