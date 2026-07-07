@@ -7,7 +7,11 @@
 ---
 
 ## 🚀 Proyectos destacados
+### 🤖 Predicción del Uso de Herramientas de Inteligencia Artificial
 
+Proyecto de análisis de datos y Machine Learning desarrollado con **Python**, **Pandas**, **NumPy**, **Scikit-learn** y **XGBoost**. Durante el proyecto se realizó el preprocesamiento del conjunto de datos, el análisis exploratorio y la comparación de distintos modelos predictivos para analizar el uso de herramientas de inteligencia artificial en el entorno universitario.
+
+🔗 **Ver proyecto:** https://github.com/ivanbs5/Prediccion-del-Uso-de-IA.git
 
 ---
 
