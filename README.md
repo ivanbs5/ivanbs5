@@ -54,7 +54,11 @@
 > Proyecto de análisis de datos y Machine Learning para estudiar y predecir el uso de herramientas de inteligencia artificial en el entorno universitario.
 
 **🛠️ Tecnologías**
-Python · Pandas · NumPy · Scikit-learn · XGBoost
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
 
 **⚙️ Desarrollo**
 - Preprocesamiento y limpieza de datos.
