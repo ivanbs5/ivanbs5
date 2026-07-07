@@ -72,8 +72,8 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,ts,angular,html,css,js,mysql,firebase,docker,linux,git,vscode" />
 </p>
----
 
+---
 ## 📫 Contacto
 
 - 📧 ivanbarrososerrano@gmail.com
