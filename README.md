@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Iván Barroso
+# 👋 ¡Hola, soy Iván Barroso!
 
 🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente finalizando el Grado en Ingeniería Informática.
 
@@ -28,7 +28,7 @@
 
 🔗 **[VER PROYECTO](https://github.com/ivanbs5/Proyecto_Domotica_ZENSORIUM.git)**
 
-
+---
 ### 📊 Análisis y Predicción del Riesgo de Cierre de Negocios
 
 > Proyecto de Big Data y Machine Learning centrado en el análisis de la evolución temporal de negocios a partir del conjunto de datos de Yelp para detectar señales tempranas de riesgo de cierre.
@@ -48,6 +48,7 @@
 
 🔗 **[VER PROYECTO](https://github.com/ivanbs5/SistemaDeDeteccionTempranaDeRiesgoEmpresarialConBigData.git)**
 
+---
 ### 🤖 Predicción del Uso de Herramientas de Inteligencia Artificial en el Entorno Universitario
 
 > Proyecto de análisis de datos y Machine Learning para estudiar y predecir el uso de herramientas de inteligencia artificial en el entorno universitario.
