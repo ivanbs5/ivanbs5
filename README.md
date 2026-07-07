@@ -14,9 +14,8 @@
 ## 🛠️ Tecnologías
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,ts,angular,html,css,js,mysql,docker,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,angular,html,css,js,mysql,firebase,docker,linux,git,vscode" />
 </p>
-
 ---
 
 ## 📫 Contacto
