@@ -29,9 +29,28 @@
 🔗 **[VER PROYECTO](https://github.com/ivanbs5/Proyecto_Domotica_ZENSORIUM.git)**
 
 
+### 📊 Análisis y Predicción del Riesgo de Cierre de Negocios
+
+> Proyecto de Big Data y Machine Learning centrado en el análisis de la evolución temporal de negocios a partir del conjunto de datos de Yelp para detectar señales tempranas de riesgo de cierre.
+
+🛠️ **Tecnologías**
+- Python
+- Apache Spark (PySpark)
+- Hadoop (HDFS)
+- Docker
+- Regresión Logística (MLlib)
+
+⚙️ **Desarrollo**
+- Procesamiento y análisis de grandes volúmenes de datos.
+- Análisis exploratorio y evolución temporal de los negocios.
+- Desarrollo de un modelo predictivo para estimar el riesgo de cierre.
+- Visualización de resultados mediante dashboards.
+
+🔗 **[VER PROYECTO](https://github.com/ivanbs5/SistemaDeDeteccionTempranaDeRiesgoEmpresarialConBigData.git)**
+
 ### 🤖 Predicción del Uso de Herramientas de Inteligencia Artificial en el Entorno Universitario
-**📌 Descripción**
-Proyecto de análisis de datos y Machine Learning para estudiar y predecir el uso de herramientas de inteligencia artificial en el entorno universitario.
+
+> Proyecto de análisis de datos y Machine Learning para estudiar y predecir el uso de herramientas de inteligencia artificial en el entorno universitario.
 
 **🛠️ Tecnologías**
 Python · Pandas · NumPy · Scikit-learn · XGBoost
