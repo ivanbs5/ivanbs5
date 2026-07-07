@@ -7,6 +7,28 @@
 ---
 
 ## 🚀 Proyectos destacados
+### 🏠 ZEN-SORIUM
+
+> Aplicación domótica desarrollada para mejorar la autonomía de personas con movilidad reducida mediante la automatización de tareas del hogar.
+
+🛠️ **Tecnologías**
+- Java
+- JavaFX
+- SceneBuilder
+- MySQL
+- Arduino
+- Git
+
+⚙️ **Desarrollo**
+- Diseño e implementación de una aplicación de escritorio.
+- Integración con sensores de temperatura, humedad y luminosidad.
+- Gestión de usuarios, dispositivos y permisos.
+- Sistema de comunicación mediante chat en tiempo real.
+- Automatización del control de luces, persianas y climatización.
+
+🔗 **[VER PROYECTO](https://github.com/ivanbs5/Proyecto_Domotica_ZENSORIUM.git)**
+
+
 ### 🤖 Predicción del Uso de Herramientas de Inteligencia Artificial en el Entorno Universitario
 **📌 Descripción**
 Proyecto de análisis de datos y Machine Learning para estudiar y predecir el uso de herramientas de inteligencia artificial en el entorno universitario.
@@ -21,7 +43,7 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost
 - Evaluación mediante métricas de clasificación.
 
 
-🔗 **[Ver proyecto](https://github.com/ivanbs5/Prediccion-del-Uso-de-IA)** 
+🔗 **[VER PROYECTO](https://github.com/ivanbs5/Prediccion-del-Uso-de-IA)** 
 
 ---
 
