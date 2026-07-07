@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Proyectos destacados
-### 🤖 Predicción del Uso de Herramientas de Inteligencia Artificial
+### 🤖 Predicción del Uso de Herramientas de Inteligencia Artificial en el Entorno Universitario
 **📌 Descripción**
 Proyecto de análisis de datos y Machine Learning para estudiar y predecir el uso de herramientas de inteligencia artificial en el entorno universitario.
 
